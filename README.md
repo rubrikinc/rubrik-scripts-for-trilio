@@ -48,7 +48,8 @@ optional arguments:
 
 The below is a quick example of calling the script with output that follows a successful backup:
 ```
-python3 tvault.py --mvname TVAULT_REPO --sla Gold --workload rhel-rbk-test1
+python3 rbk-tvault_rhv_backups.py --mvname TVAULT_REPO --sla Gold --workload rhel-rbk-test1
+
 Making Rubrik Managed Volume TVAULT_REPO writable in preparation for Triliovault Snapshot.
 {'snapshotId': '27a340bb-457d-49f6-a2fc-9dd0703f3092'}
 Workload status: locked    Snapshot Progress: 0    Status: starting
