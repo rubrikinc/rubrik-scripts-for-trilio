@@ -2,7 +2,7 @@
 
 This repository contains scripts that can be used to orchestrate the activity between TrilioVault and Rubrik.  Currently there is only a single script within the repo (`rbk-tvault_rhv_backup.py`) and the below instructions will reflect the usage of this single script.  The README will be updated once multiple scripts get uploaded.
 
-## :wrench:Usage and Requirements for `rbk-tvault_thv_backup.py`
+## :wrench:Usage and Requirements for `rbk-tvault_rhv_backup.py`
 
 This script is designed to interact with the TrilioVault RHV product to orchestrate an on-demand backup from TrilioVault that is back-ended by a Rubrik Managed Volume.
 
